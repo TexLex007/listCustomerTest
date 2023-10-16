@@ -10,7 +10,7 @@ import org.apache.poi.xssf.usermodel.XSSFSheet;
 import org.apache.poi.xssf.usermodel.XSSFWorkbook;
 
 public class ExelReader {
-	public String path = "C:\\Users\\pudas\\SeleniumTutorials\\anotherTry\\src\\main\\java\\testData\\exlData.xlsx";
+	public String path = "src\\main\\java\\testData\\exlData.xlsx";
 	public FileInputStream fi = null;
 	private XSSFWorkbook workbook = null;
 	private XSSFSheet sheet = null;

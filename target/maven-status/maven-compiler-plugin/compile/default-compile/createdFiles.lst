@@ -1,0 +1,8 @@
+pages\BasePage.class
+util\BrowserFactory.class
+pages\LoginPage.class
+pages\DashboardPage.class
+pages\AddCustomerPage.class
+util\ExelReader.class
+util\PropertyFileReader.class
+pages\ListCustomerPage.class
